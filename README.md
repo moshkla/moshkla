@@ -4,7 +4,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moshkla&show_icons=true&theme=dracula)
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshkla&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on [Clean Code (uncle pop)](https://www.ysk-books.com/public/app/books/Clean%20Code:%20A%20Handbook%20of%20Agile%20Software%20Craftsmanship.pdf)
 
@@ -17,6 +16,8 @@
 - 📫 How to reach me **Anas.ss@yahoo.com**
 - 📫 WhatsApp **+201060736137**
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moshkla&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+ 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
